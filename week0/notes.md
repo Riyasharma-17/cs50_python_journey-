@@ -4,7 +4,20 @@
 - Introduction to CS50
 - Computational Thinking
 - Scratch Programming Language
-- Building Programs with Blocks
+- Creating your first programs in Python;
+Functions;
+Bugs;
+Variables;
+Comments;
+Pseudocode;
+Strings;
+Parameters;
+Formatted Strings;
+Integers;
+Principles of readability;
+Floats;
+Creating your own functions; and
+Return values.
 
 ## Key Concepts
 - Algorithms
@@ -13,8 +26,7 @@
 - Variables
 - Functions
 
-## Notes
-<!-- Add your lecture notes here -->
+
 
 ## Problem Sets
 - Indoor Volume
