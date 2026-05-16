@@ -1,12 +1,15 @@
-# Week 1: Functions, Variables, and Conditionals
+# Week 1: Conditionals
 
 ## Topics Covered
-- Python Basics
-- Functions
-- Variables and Data Types
-- Conditionals
-- Getting User Input
-
+Conditionals;
+if Statements;
+Control flow, elif, and else;
+or;
+and;
+Modulo;
+Creating your own function;
+Pythonic coding;
+and match.
 ## Key Concepts
 - def keyword
 - return statements
@@ -14,8 +17,6 @@
 - if, elif, else statements
 - input() function
 
-## Notes
-<!-- Add your lecture notes here -->
 
 ## Problem Sets
 - Add one more problem set
