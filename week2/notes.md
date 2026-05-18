@@ -1,11 +1,12 @@
 # Week 2: Loops
 
 ## Topics Covered
-- Loops in Python
-- While Loops
-- For Loops
-- Iteration
-- String Manipulation
+Loops
+while
+for
+len
+list
+dict
 
 ## Key Concepts
 - while loops
@@ -14,8 +15,7 @@
 - String iteration
 - Loop control (break, continue)
 
-## Notes
-<!-- Add your lecture notes here -->
+
 
 ## Problem Sets
 - Camel
