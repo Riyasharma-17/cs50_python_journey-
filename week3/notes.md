@@ -1,11 +1,14 @@
 # Week 3: Exceptions
 
 ## Topics Covered
-- Error Handling
-- Exceptions
-- Try/Except Blocks
-- Custom Exceptions
-- Defensive Programming
+Errors are inevitable in your code. However, you have the opportunity to use what was learned today to help prevent these errors. In this lecture, you learned about…
+
+Exceptions
+Value Errors
+Runtime Errors
+try
+else
+pass
 
 ## Key Concepts
 - Exception types
@@ -14,10 +17,10 @@
 - Custom error messages
 - Input validation
 
-## Notes
-<!-- Add your lecture notes here -->
+
 
 ## Problem Sets
 - Fuel Gauge
 - Grocery List
 - Outdated
+- taqueria
