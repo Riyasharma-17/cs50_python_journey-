@@ -1,11 +1,14 @@
 # Week 4: Libraries
 
 ## Topics Covered
-- Using Python Libraries
-- Random Module
-- Statistics Module
-- Requests Module
-- Regular Expressions
+Libraries
+Random
+Statistics
+Command-Line Arguments
+Slice
+Packages
+APIs
+Making Your Own Libraries
 
 ## Key Concepts
 - import statements
@@ -14,8 +17,7 @@
 - Datetime module
 - File I/O
 
-## Notes
-<!-- Add your lecture notes here -->
+
 
 ## Problem Sets
 - Emojize
@@ -23,4 +25,4 @@
 - Adieu, Adieu
 - Guessing Game
 - Professor
-- Shirt
+- Bitcoin
