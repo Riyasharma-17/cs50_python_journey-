@@ -1,11 +1,12 @@
 # Week 5: Unit Tests
 
 ## Topics Covered
-- Test-Driven Development
-- Unit Testing
-- pytest Framework
-- Writing Testable Code
-- Code Quality
+Unit Tests
+assert
+pytest
+Testing Strings
+Organizing Tests into Folders
+Summing Up
 
 ## Key Concepts
 - unittest module
@@ -14,8 +15,7 @@
 - Assertions
 - Fixtures and mocking
 
-## Notes
-<!-- Add your lecture notes here -->
+
 
 ## Problem Sets
 - Testing My Twttr
