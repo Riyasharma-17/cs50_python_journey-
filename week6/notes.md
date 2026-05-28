@@ -6,6 +6,11 @@
 - JSON Handling
 - Context Managers
 - File Operations
+File I/O
+open
+with
+CSV
+Binary Files and PIL
 
 ## Key Concepts
 - open() function
@@ -14,11 +19,8 @@
 - JSON module
 - with statements
 
-## Notes
-<!-- Add your lecture notes here -->
 
 ## Problem Sets
 - Lines of Code
 - Pizza Py
-- Scourgify
 - CS50 P-Shirt
