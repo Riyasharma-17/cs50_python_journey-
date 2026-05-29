@@ -7,6 +7,10 @@
 - Email and URL Validation
 - Text Processing
 
+Case Sensitivity
+Cleaning Up User Input
+Extracting User Input
+
 ## Key Concepts
 - regex patterns
 - re.search() and re.match()
@@ -14,11 +18,9 @@
 - Character classes and quantifiers
 - Groups and capturing
 
-## Notes
-<!-- Add your lecture notes here -->
+
 
 ## Problem Sets
 - Numb3rs
-- Watch on Youtube
 - Working 9 to 5
 - Regular, Expression
