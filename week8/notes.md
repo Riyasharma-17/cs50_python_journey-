@@ -14,10 +14,8 @@
 - Inheritance and super()
 - Magic methods
 
-## Notes
-<!-- Add your lecture notes here -->
+
 
 ## Problem Sets
 - Season of Love
-- Cookie Jar
 - CS50 Shirtificate
