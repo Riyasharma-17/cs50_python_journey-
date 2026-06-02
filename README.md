@@ -1,319 +1,132 @@
-<!-- Repository Banner -->
 <div align="center">
-  
-# 🐍 CS50 Python Journey
 
-[![Harvard CS50](https://img.shields.io/badge/Harvard-CS50-crimson?style=flat-square&logo=harvard)](https://cs50.harvard.edu/python/)
-[![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)](https://github.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7C948&center=true&vCenter=true&width=600&lines=CS50+Python+%E2%80%94+Completed+%E2%9C%94;10+Weeks.+54+Commits.+Done." alt="Typing SVG" />
 
-*A comprehensive repository documenting my progress through Harvard's CS50 Introduction to Programming with Python*
+<br/>
+
+[![Harvard CS50P](https://img.shields.io/badge/Harvard-CS50P-crimson?style=for-the-badge&logo=harvard&logoColor=white)](https://cs50.harvard.edu/python/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-COMPLETED-22c55e?style=for-the-badge)](#)
+[![Commits](https://img.shields.io/badge/Commits-54-f59e0b?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Riyasharma-17/cs50_python_journey-/commits/main)
+
+<br/>
+
+> *Harvard's CS50P, finished — from zero to OOP, one problem set at a time.*
 
 </div>
 
 ---
 
-## 📚 About CS50
+## What This Is
 
-[CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/) is Harvard University's renowned introduction to computer science course, taught by David J. Malan. This repository serves as a complete record of my solutions and learning journey through all 10 weeks of the course.
+This repo is a complete record of my run through [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/) by Harvard University (taught by David J. Malan). Every week, every problem set — solved, committed, done.
 
-**Course Focus:**
-- Python Programming Fundamentals
-- Software Engineering Best Practices
-- Problem-Solving and Algorithmic Thinking
-- Real-world Application Development
+Started this when Python was new to me. Finished it with a solid grasp of the language, testing discipline, and a few genuinely fun projects along the way.
 
 ---
 
-## 📋 Weekly Progress Checklist
+## 📊 Progress — All Weeks Completed
 
-### Week 0: Scratch
-- [ ] Computational Thinking
-- [ ] Algorithms
-- [ ] Problem Set: Indoor Volume
-- [ ] Problem Set: Playback Speed
-- [ ] Problem Set: Faces
-- [ ] Problem Set: Einstein
-- [ ] Problem Set: Tip Calculator
-
-### Week 1: Functions, Variables, and Conditionals
-- [ ] Python Basics
-- [ ] Functions and Return Values
-- [ ] Variables and Data Types
-- [ ] Conditionals (if/elif/else)
-- [ ] Problem Set: Mario
-- [ ] Problem Set: Bank
-- [ ] Problem Set: Tip Calculator
-
-### Week 2: Loops
-- [ ] While and For Loops
-- [ ] String Manipulation
-- [ ] Pattern Recognition
-- [ ] Problem Set: Camel
-- [ ] Problem Set: Coke
-- [ ] Problem Set: Just Setting Up My Twttr
-- [ ] Problem Set: Vanity Plates
-
-### Week 3: Exceptions
-- [ ] Error Handling
-- [ ] Try/Except Blocks
-- [ ] Defensive Programming
-- [ ] Problem Set: Fuel Gauge
-- [ ] Problem Set: Grocery List
-- [ ] Problem Set: Outdated
-
-### Week 4: Libraries
-- [ ] Python Standard Library
-- [ ] Random, Statistics, and Datetime Modules
-- [ ] API Requests
-- [ ] Regular Expressions
-- [ ] Problem Set: Emojize
-- [ ] Problem Set: Guessing Game
-- [ ] Problem Set: Professor
-
-### Week 5: Unit Tests
-- [ ] Test-Driven Development
-- [ ] pytest Framework
-- [ ] Writing Testable Code
-- [ ] Problem Set: Testing My Twttr
-- [ ] Problem Set: Back to the Bank
-- [ ] Problem Set: Refueling
-
-### Week 6: File I/O
-- [ ] Reading and Writing Files
-- [ ] CSV Processing
-- [ ] JSON Handling
-- [ ] Working with Libraries
-- [ ] Problem Set: Lines of Code
-- [ ] Problem Set: Pizza Py
-- [ ] Problem Set: Scourgify
-
-### Week 7: Regular Expressions
-- [ ] Pattern Matching with Regex
-- [ ] Text Validation and Processing
-- [ ] String Manipulation
-- [ ] Problem Set: Numb3rs
-- [ ] Problem Set: Watch on Youtube
-- [ ] Problem Set: Working 9 to 5
-
-### Week 8: Object-Oriented Programming
-- [ ] Classes and Objects
-- [ ] Inheritance and Polymorphism
-- [ ] Encapsulation
-- [ ] Magic Methods
-- [ ] Problem Set: Season of Love
-- [ ] Problem Set: Cookie Jar
-- [ ] Problem Set: CS50 Shirtificate
-
-### Week 9: Et Cetera
-- [ ] Command-Line Arguments
-- [ ] Web Scraping
-- [ ] APIs and Integration
-- [ ] Flask Basics
-- [ ] Problem Set: Happy Numbers
-- [ ] Problem Set: Validate Time
-
-### Final Project
-- [ ] 🎯 **Final Project: [Your Project Title]**
-- [ ] Project Planning
-- [ ] Implementation
-- [ ] Testing and Debugging
-- [ ] Documentation
+| Week | Topic | Problem Sets | Status |
+|------|-------|-------------|--------|
+| 0 | Functions, Variables | Indoor Voice, Playback Speed, Making Faces, Einstein, Tip Calculator | ✅ |
+| 1 | Conditionals | Deep Thought, Home Federal Savings Bank, File Extensions, Math Interpreter, Meal Time | ✅ |
+| 2 | Loops | camelCase, Coke Machine, Just setting up my twttr, Vanity Plates, Nutrition Facts | ✅ |
+| 3 | Exceptions | Fuel Gauge, Felipe's Taqueria, Grocery List, Outdated | ✅ |
+| 4 | Libraries | Emojize, Frank, Ian & Glen's, Adieu, Adieu, Guessing Game, Little Professor, Bitcoin Price Index | ✅ |
+| 5 | Unit Tests | Testing my twttr, Back to the Bank, Re-requesting a Vanity Plate, Refueling | ✅ |
+| 6 | File I/O | Lines of Code, Pizza Py, Scourgify, CS50 P-Shirt | ✅ |
+| 7 | Regular Expressions | NUMB3RS, Watch on YouTube, Working 9 to 5, Regular, Um, Count | ✅ |
+| 8 | OOP | Seasons of Love, Cookie Jar, CS50 Shirtificate | ✅ |
 
 ---
 
-## 📁 Repository Structure
+## 🗂️ Repository Structure
 
 ```
-CS50-Python/
-│
-├── week0/          # Scratch Programming
-│   ├── notes.md
-│   ├── indoor/
-│   ├── playback/
-│   ├── faces/
-│   ├── einstein/
-│   └── tip/
-│
-├── week1-9/        # Python Fundamentals through Advanced Topics
-│   ├── notes.md
-│   └── problem_sets/
-│
-├── final_project/  # Capstone Project
-│   ├── README.md
-│   ├── project.py
-│   ├── requirements.txt
-│   └── tests/
-│
-├── README.md       # This file
-└── .gitignore      # Git ignore rules
-
+cs50_python_journey/
+├── week0/          # Functions & Variables
+├── week1/          # Conditionals
+├── week2/          # Loops
+├── week3/          # Exceptions
+├── week4/          # Libraries
+├── week5/          # Unit Tests (pytest)
+├── week6/          # File I/O
+├── week7/          # Regular Expressions
+├── week8/          # Object-Oriented Programming
+├── .gitignore
+└── README.md
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 What I Actually Learned
 
-| Technology | Purpose |
-|-----------|---------|
-| ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) | Programming Language |
-| ![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white) | Version Control |
-| ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) | Repository Hosting |
-| ![pytest](https://img.shields.io/badge/-pytest-yellow?logo=pytest&logoColor=white) | Unit Testing |
+**Weeks 0–2 — The Foundation**  
+Python syntax, functions, conditionals, loops — the building blocks. Learned to write clean, readable code from day one.
 
----
+**Week 3 — Exceptions**  
+Defensive programming. Writing code that doesn't crash on bad input. `try/except` done right.
 
-## 💡 Key Learning Outcomes
+**Week 4 — Libraries**  
+Standard library deep dive: `random`, `statistics`, `sys`, `requests`. Also my first real taste of working with external APIs.
 
-By completing CS50 Python, I will have mastered:
+**Week 5 — Unit Testing**  
+Test-driven thinking with `pytest`. Writing tests *before* fixing bugs. This week changed how I approach code quality.
 
-✅ Python syntax and programming fundamentals  
-✅ Functional and object-oriented programming paradigms  
-✅ Debugging and error handling  
-✅ Testing and code quality practices  
-✅ Working with files, APIs, and databases  
-✅ Building real-world applications  
-✅ Best practices in software engineering  
+**Week 6 — File I/O**  
+Reading and writing files, CSV processing with `csv.DictReader/Writer`, handling real data formats.
 
----
+**Week 7 — Regular Expressions**  
+Pattern matching with `re`. Validating inputs, extracting data from strings, parsing formats — regex is ugly but powerful.
 
-## 📖 How to Use This Repository
-
-1. **Navigate by Week**: Each week folder contains lecture notes and problem set solutions
-2. **Review Solutions**: Check out the problem_sets folder for completed assignments
-3. **Follow the Checklist**: Track your progress using the weekly checklist above
-4. **Explore Notes**: Each week has a notes.md file with key concepts and takeaways
-5. **Final Project**: See the final_project folder for the capstone project details
+**Week 8 — OOP**  
+Classes, `__init__`, `__str__`, `__add__`, inheritance, encapsulation. Building proper data abstractions.
 
 ---
 
-## 🎓 Course Information
+## 🛠️ Tech Used
 
-- **Institution**: Harvard University
-- **Course**: CS50 Introduction to Programming with Python
-- **Instructor**: David J. Malan
-- **Course Link**: https://cs50.harvard.edu/python/
-- **Duration**: 10 weeks
-- **Level**: Beginner to Intermediate
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 
 ---
 
-## 💬 Inspirational Quote
-
-> "Code is not just syntax; it is a way of thinking."
-
----
-
-## 📝 Notes
-
-- Solutions are created for learning purposes
-- Each problem set emphasizes different programming concepts
-- Code quality and best practices are prioritized
-- Tests are included where applicable
-
----
-
-## 📌 Getting Started
-
-### Prerequisites
-- Python 3.8 or higher
-- Git
-
-### Setup
+## ⚡ Run Any Solution Locally
 
 ```bash
-# Clone this repository
-git clone https://github.com/yourusername/CS50-Python.git
+# Clone
+git clone https://github.com/Riyasharma-17/cs50_python_journey-.git
+cd cs50_python_journey-
 
-# Navigate to the project
-cd CS50-Python
+# Run any solution
+python week3/fuel.py
 
-# Create a virtual environment
-python -m venv venv
-
-# Activate virtual environment
-# On Windows:
-venv\Scripts\activate
-# On macOS/Linux:
-source venv/bin/activate
-
-# Install dependencies (if any)
-pip install -r requirements.txt
+# Run tests (week5 onwards)
+pytest week5/test_twttr.py
 ```
-
-### Running Code
-
-```bash
-# Navigate to a week's problem set
-cd week1/problem_sets
-
-# Run a Python file
-python solution.py
-```
-
-### Running Tests
-
-```bash
-# Run all tests
-pytest
-
-# Run tests for a specific week
-pytest week5/
-```
-
----
-
-## 🤝 Contributing
-
-This is a personal learning repository. However, feedback and suggestions are always welcome!
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Riya Sharma**  
+CCE Student @ Amrita Vishwa Vidyapeetham  
+[![GitHub](https://img.shields.io/badge/GitHub-Riyasharma--17-181717?logo=github&style=flat-square)](https://github.com/Riyasharma-17)
 
 ---
 
-## 🙏 Acknowledgments
+## 🙏 Credits
 
-- **Harvard University** and **CS50 Team** for creating this exceptional course
-- **David J. Malan** for the outstanding instruction and content
-- The CS50 community for the collaborative learning environment
-
----
-
-## 📊 Progress Dashboard
-
-| Week | Status | Completion |
-|------|--------|-----------|
-| Week 0 | ⏳ Not Started | 0% |
-| Week 1 | ⏳ Not Started | 0% |
-| Week 2 | ⏳ Not Started | 0% |
-| Week 3 | ⏳ Not Started | 0% |
-| Week 4 | ⏳ Not Started | 0% |
-| Week 5 | ⏳ Not Started | 0% |
-| Week 6 | ⏳ Not Started | 0% |
-| Week 7 | ⏳ Not Started | 0% |
-| Week 8 | ⏳ Not Started | 0% |
-| Week 9 | ⏳ Not Started | 0% |
-| Final Project | ⏳ Not Started | 0% |
+- **Harvard University & CS50 Team** — for making world-class CS education free
+- **David J. Malan** — genuinely one of the best teachers on the internet
 
 ---
 
 <div align="center">
 
-**Happy Coding! 🚀**
-
-*Last Updated: 2024*
+*CS50P — checked off. On to bigger builds.*
 
 </div>
